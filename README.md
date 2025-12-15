@@ -26,7 +26,9 @@ Data Preprocessing:
 
 Handling categorical features
 Feature scaling using StandardScaler
+
 Pipeline:
+
 Data Ingestion
 Data Transformation
 Model Training
