@@ -1,7 +1,9 @@
 # end to end ml project
 
 Student Performance Prediction using MLP
+
 📌 Project Overview
+
 This project is a Machine Learning web application that predicts a student’s academic performance based on demographic and educational factors.
 It uses a Multi-Layer Perceptron (MLP) model and is deployed using Flask.
 The application allows users (teachers, institutions, or analysts) to input student details through a web interface and instantly receive predicted performance scores.
